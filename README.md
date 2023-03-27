@@ -7,9 +7,9 @@
 * User will forward to new page after login with the valid credentials.
 * There is a button too so that user can log log out any time.
 
-## Technology used 
+## Tech stack 
 * Java Servlet
 * JSP
-* Oracle databse
-* jdbc
-* html
+* Oracle database
+* JDBC
+* HTML
