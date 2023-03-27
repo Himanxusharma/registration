@@ -1,5 +1,6 @@
 # registration - User can create a new account & Login to the existing account 
 ## Client - Server - Client (Full Fledged)
+## using Servlet + JSP + JDBC + Oracle DB + Tomcat
 ## Features
 * User's credentials and the details will be saved into the databse in the user table.
 * User have to validate all the fields at the time of taking input.
@@ -13,3 +14,4 @@
 * Oracle database
 * JDBC
 * HTML
+* Tomcat server
